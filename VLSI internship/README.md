@@ -34,5 +34,6 @@ Verilog and MATLAB Online.
 - GitHub
 
 ## Author
-- Name: (Karthick raja A)
+- Name: (Dhatchina moorthy)
 - Internship Domain: VLSI / Digital Design
+
